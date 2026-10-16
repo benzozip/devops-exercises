@@ -10,6 +10,8 @@ int main()
   fork();
   printf("\nyay\n");
   return 0;
+
+
 }
 ```
 
